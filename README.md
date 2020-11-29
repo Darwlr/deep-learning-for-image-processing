@@ -17,3 +17,18 @@
 4. GoogleNet
 5. ResNet
 
+- 目标检测篇
+	- Faster-RCNN/FPN
+	- SSD/RetinaNet
+	- YOLOv3 SPP
+
+- 目标分割
+
+---
+## 所需环境
+- Anaconda3（建议使用）
+- python 3.6/3.7
+- PyCharm (IDE)
+- pytorch 1.6 (pip package)
+
+
